@@ -5,7 +5,7 @@ int main() {
 	char arr[100];
 	char arrTemp[100];
 	int number;
-	std::cout << "How many symbols will be in you string?(to downcase her) " << std::endl;
+	std::cout << "How many symbols will be in you string?(to downcase her) \n";
 	std::cin >> number;
 	std::cout << "Enter your string " << std::endl;
 	for (int i = 0; i < number; ++i) {
