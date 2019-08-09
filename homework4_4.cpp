@@ -1,6 +1,5 @@
 #include <iostream>
 
-
 int main() {
 	char arr[100];
 	char arrTemp[100];
